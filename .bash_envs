@@ -1,0 +1,5 @@
+#! /bin/bash
+export TAKEMEHOME=/mnt/c/Users/Sean/
+export DFOLDER=/mnt/c/Users/Sean/Downloads
+export GITPATH=/mnt/c/Users/Sean/Documents/GitHub
+export PYTHONFOLDER=/mnt/c/Users/Sean/Documents/mypythonscripts
