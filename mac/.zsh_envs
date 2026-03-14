@@ -1,0 +1,4 @@
+export TAKEMEHOME=~
+export DFOLDER=~/Downloads
+export GITPATH=~/Documents
+export PYTHONFOLDER=~/Documents

@@ -1,0 +1,12 @@
+# Safety aliases
+alias rm='rm -i'
+alias mv='mv -i'
+alias cp='cp -i'
+
+# ls aliases
+alias ll='ls -alF'
+alias la='ls -A'
+alias l='ls -CF'
+
+# Navigation
+alias takemehome='cd ~'

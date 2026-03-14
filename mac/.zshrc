@@ -11,5 +11,5 @@ export LSCOLORS=ExFxBxDxCxegedabagacad
 alias ls='ls -GFh'
 
 # Load aliases and env vars
-[ -f ~/.bash_aliases ] && source ~/.bash_aliases
-[ -f ~/.bash_envs ] && source ~/.bash_envs
+[ -f ~/.zsh_aliases ] && source ~/.zsh_aliases
+[ -f ~/.zsh_envs ] && source ~/.zsh_envs
