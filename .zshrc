@@ -5,7 +5,7 @@ export NVM_DIR="$HOME/.nvm"
 [ -s "$NVM_DIR/bash_completion" ] && \. "$NVM_DIR/bash_completion"  # This loads nvm bash_completion
 
 # Colors and prompt
-PROMPT='%{\033[36m%}%n%{\033[0m%}@%{\033[32m%}%m:%{\033[33;1m%}%~%{\033[0m%}$ '
+PROMPT='%F{cyan}%n%f@%F{green}%m:%F{yellow}%~%f$ '
 export CLICOLOR=1
 export LSCOLORS=ExFxBxDxCxegedabagacad
 alias ls='ls -GFh'
