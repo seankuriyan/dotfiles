@@ -10,3 +10,8 @@ alias l='ls -CF'
 
 # Navigation
 alias takemehome='cd ~'
+alias ..='cd ..'
+alias ...='cd ../..'
+
+# Grep with color
+alias grep='grep --color=auto'

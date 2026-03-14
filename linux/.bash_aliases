@@ -13,3 +13,5 @@ alias open="explorer.exe"
 
 # Aliases for commonly used folders
 alias takemehome="cd /mnt/c/Users/Sean/"
+alias ..='cd ..'
+alias ...='cd ../..'
